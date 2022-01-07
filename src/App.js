@@ -137,20 +137,3 @@ function App() {
 }
 
 export default App;
-
-/*
-          <DataGrid
-          id="dataGrid"
-          dataSource={store}
-          keyExpr="ID"
-          defaultColumns={columns}
-          showBorders={true}
-        >
-          <RowDragging
-            group={draggingGroupName}
-            onAdd={onAdd}
-            onRemove={onRemove}
-            onDrop={onRowDrop}
-          />
-        </DataGrid> 
-*/
